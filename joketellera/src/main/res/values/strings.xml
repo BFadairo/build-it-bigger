@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokeTellerA</string>
+    <string name="joke_header">Your Joke Below!</string>
+    <string name="joke_container">Your joke will be here</string>
+</resources>
